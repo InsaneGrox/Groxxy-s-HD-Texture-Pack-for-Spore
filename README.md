@@ -7,3 +7,5 @@ NOTE: Lower end video cards are completely unsupported, this mod is made for use
 Latest Release can be found here: https://drive.google.com/drive/folders/11zZFIJRqaShLsQJQY1M2vOp1lFO6XYIG
 
 Davoonline page (Depreciated): http://davoonline.com/phpBB3/viewtopic.php?f=125&t=9412
+
+NOTE: Due to Github's file size restrictions the mod can not be hosted directly on github as it far exceeds 100mb... Sorry
